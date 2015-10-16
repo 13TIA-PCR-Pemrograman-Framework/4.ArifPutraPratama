@@ -13,7 +13,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Masukkan Data Mahasiswa</h1>
+        <h1>Login Perpustakaan</h1>
+        <h3>Masukkan Data Anda </h3>
         <spring:nestedPath path="name">
             <form action="" method="post">
                 <table>

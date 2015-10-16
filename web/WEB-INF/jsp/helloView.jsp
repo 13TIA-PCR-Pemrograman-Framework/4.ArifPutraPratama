@@ -12,7 +12,8 @@
         <title>Data Mahasiswa</title>
     </head>
     <body>
-        <h1>Data Mahasiswa: </h1>
+        <h2>Data Anda: </h2>
         <p>${helloMessage}</p>
+        <h3>Selamat Datang DiPerpustakaan</h3>
     </body>
 </html>
